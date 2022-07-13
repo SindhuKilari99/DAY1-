@@ -1,0 +1,6 @@
+Inialize the varaibles.
+Take the inputs as 0 and 1 from the user.
+Check the condition as if the both inputs is high then output will be high for the AND gate.
+Check the condition as if the any one input is high then output will be high for OR gate.
+Check the condition as if the input is high then the output will be low, if the input is low the output will be high.
+Then print the outputs accordingly.
