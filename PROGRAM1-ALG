@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input from the user.
+Find the given data is multiple of 11 or if it is one more than the multiple of 11.
+If the above condition is true print SPECIAL
+If the above condition is false print NON-SPECIAL.
