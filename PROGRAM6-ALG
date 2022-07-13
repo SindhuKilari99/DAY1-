@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input from the user.
+Check the condtion for 9 variables to keep in ascending order.
+If the condition is true swap the variables otherwise keep the variables in the same position.
+Then print the variables in the ascending order.
