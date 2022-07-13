@@ -1,0 +1,6 @@
+Initialize the variables.
+Take the 6 digit input from the user.
+Check the condition if the number contain 0 or not.
+If the number doesnt contain 0 then reverse the number.
+If the number contain 0 then the number will be reversed untill 0.
+Then print the reversed number as output.
