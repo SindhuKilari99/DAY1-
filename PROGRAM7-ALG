@@ -1,0 +1,5 @@
+Initialize the variable.
+Take the input from the user.
+Write the logic for reversing of the number.
+Check the condition for given number is equal to the reversed number.
+If the above condition is true then print palindrome otherwise print not a palindrome number.
