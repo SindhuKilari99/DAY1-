@@ -1,0 +1,4 @@
+Initialize the variables
+Take the 5 random single digit numbers as input from the user.
+Check the condition for even and odd for the given numbers.
+If the condition is true print even otherwise print odd.
